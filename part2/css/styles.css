@@ -89,19 +89,14 @@ footer img {
 .event-block:not(:first-of-type) {
     box-shadow: 10px 10px 10px lightgray;
     text-align: center;
-
 }
 .event-block:not(:first-of-type) img {
-
     width: 300px; 
 }
-.event-block:not(:first-of-type) p {
-    
+.event-block:not(:first-of-type) p {  
     width: 280px;
- 
 }
 span {
     font-style: italic;
-    color: gray;
-    
+    color: gray;  
 }

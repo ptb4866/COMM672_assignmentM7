@@ -86,7 +86,6 @@ footer img {
 .featured img {
     width: 500px;  
 }
-
 .event-block:not(:first-of-type) {
     box-shadow: 10px 10px 10px lightgray;
     text-align: center;
@@ -101,7 +100,6 @@ footer img {
     width: 280px;
  
 }
-
 span {
     font-style: italic;
     color: gray;
